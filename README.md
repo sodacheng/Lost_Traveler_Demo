@@ -10,6 +10,7 @@
 - Assets
   - ArtRes - 美术资产
   - Game - 游戏文件夹
+    - Animations - 动画
     - Scenes - 场景
     - Scripts - 脚本
     - Prefabs - 预制体
