@@ -1,0 +1,4 @@
+repository "Lost_Traveler_Demo@ssl://sodacheng@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main" changeset "9"                 
+     
