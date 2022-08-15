@@ -1,6 +1,8 @@
 # Lost_Traveler_Demo
 [Git快速入门教程](https://www.yuque.com/docs/share/75a4c732-fb0b-4e3a-adba-3438a27eacfb?# 《在Unity中使用Git》)
 
+# 方便其他组员工作, 项目已转移到Plastic SCM!!!
+
 # Unity版本 2020.3.36f1c1
 
 ## 文件夹结构
